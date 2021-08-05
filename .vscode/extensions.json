@@ -1,0 +1,13 @@
+{
+  "recommendations": [
+    "msjsdiag.debugger-for-chrome",
+    "editorconfig.editorconfig",
+    "eamodio.gitlens",
+    "esbenp.prettier-vscode",
+    "shan.code-settings-sync",
+    "wayou.vscode-todo-highlight",
+    "octref.vetur",
+    "sonarsource.sonarlint-vscode",
+    "ms-vscode.vscode-typescript-tslint-plugin"
+  ]
+}
