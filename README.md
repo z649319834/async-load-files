@@ -24,7 +24,7 @@ yarn add async-load-files
   - load?: Function 在 onload 后的回调函数
 
 ```
-import asyncPreloadFiles from 'async-preload-files'
+import asyncLoadFiles from 'async-load-files'
 
 asyncLoadFiles([
   {
